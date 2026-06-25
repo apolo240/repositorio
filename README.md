@@ -1,2 +1,2 @@
 # repositorio
-Is a good repo for me. Ok?
+Este es un repo que busca aprender sobre github 
